@@ -19,7 +19,7 @@ public class ClusterTest {
 
     @Test
     public void testSetUserName() {
-        userService.setUserName("101", "史恒");
+        userService.setUserName("101", "史恒1");
     }
 
     @Test
